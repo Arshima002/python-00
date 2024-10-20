@@ -1,0 +1,26 @@
+mark1=(float)(input("enter first subject mark"))
+mark2=(float)(input("enter second subject mark"))
+mark3=(float)(input("enter third subject mark"))
+mark4=(float)(input("enter fourth subject mark"))
+mark5=(float)(input("enter fifth subject mark"))
+total_ob=mark1+mark2+mark3+mark4+mark5
+per=(total_ob/500)*100
+print("percentage is",per)
+    
+    
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+        
+        
+        
+
+
+    
