@@ -1,0 +1,26 @@
+a=int(input('insert the first number:'))
+b=int(input('insert the second number:'))
+if a > b:
+    print('The largest value is a:', a)
+elif a == b:
+    print('The numbers are the same')
+else:
+    print('The largest value is b:', b)
+    
+    
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+        
+        
+        
+
+
+    
